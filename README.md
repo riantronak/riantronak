@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riantronak
-- 👀 I’m interested in learning python which I would like to apply to my studies
+- 👀 I’m interested in learning python so that I could apply it to to my Investment studies
 - 🌱 I’m currently CFA Student and Equity Investor
 
 <!---
